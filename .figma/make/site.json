@@ -1,0 +1,10 @@
+{
+  "description": "Care for a virtual pet with treats and fun mini-games that make daily play and bonding easy for pet lovers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
